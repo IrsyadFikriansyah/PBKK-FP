@@ -5,7 +5,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="single-footer-widget ab_widgets">
                <div class="f_title">
-                  <h3>newsportaligniter.com</h3>
+                  <h3>its_news_media.com</h3>
                </div>
                <p>The Best Place for News in the Best Place on Earth!</p>
             </div>
@@ -13,11 +13,11 @@
          <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="single-footer-widget">
                   <div class="f_title">
-                  <h3>Quick Links</h3>
+                  <h3>Pintasan Langsung</h3>
                   </div>
                   <div class="row">
                      <div class="col-6">
-                        <h5 style="color: white">Category</h5>
+                        <h5 style="color: white">Kategori</h5>
                         <ul class="list mt-3">
                            <?php foreach($category as $c) : ?>
                               <li><a href="<?= base_url("blog/category/$c->slug") ?>"><?= $c->category_name ?></a></li>
@@ -37,7 +37,7 @@
          <div class="col-lg-4 col-md-6">
             <div class="single-footer-widget m_news_widgets">
                <div class="f_title">
-                  <h3>Social Networks</h3>
+                  <h3>Media Sosial</h3>
                </div>
                <div class="col-lg-4 col-md-4 footer-social icon mx-auto">
                   <a href="#"><i class="fa fa-facebook"></i></a>

@@ -5,7 +5,7 @@
       <div class="sidebar-brand-icon">
          <i class="fas fa-user-shield"></i>
       </div>
-      <div class="sidebar-brand-text mx-1">Admin Panel</div>
+      <div class="sidebar-brand-text mx-1">Administrator</div>
    </a>
 
    <!-- Divider -->

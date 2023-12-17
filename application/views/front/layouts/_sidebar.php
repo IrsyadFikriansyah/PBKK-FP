@@ -41,12 +41,12 @@
 
       <aside class="r_widgets social_widgets mt-5">
          <div class="main_title2">
-            <h2>Social Networks</h2>
+            <h2>Media Sosial</h2>
          </div>
          <ul class="list">
-            <li><a href="#"><i class="fa fa-facebook"></i>NewsPortalIgniter<span>Like our page</span></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i>NewsPortalIgniter<span>Follow Us</span></a></li>
-            <li><a href="#"><i class="fa fa-youtube-play"></i>NewsPortalIgniter<span>Subscribe</span></a></li>
+            <li><a href="#"><i class="fa fa-facebook"></i>ITSNewsMedia<span>Like our page</span></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i>ITSNewsMedia<span>Follow Us</span></a></li>
+            <li><a href="#"><i class="fa fa-youtube-play"></i>ITSNewsMedia<span>Subscribe</span></a></li>
          </ul>
       </aside>
 
