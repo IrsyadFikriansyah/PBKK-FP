@@ -130,9 +130,6 @@
             <!-- End of Last News -->
 
             <div class="tavel_food mt-5">
-               <div class="main_title2">
-                  <h2>Gaming Corner</h2>
-               </div>
                <div class="row">
                   <div class="col-lg-6">
                      <div class="row choice_small_inner">
